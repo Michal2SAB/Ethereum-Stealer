@@ -1,0 +1,4 @@
+0x00000000219ab540356cbb839cbe05303d7705fa
+0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
+
+^ just an example, add more wallets yourself.
