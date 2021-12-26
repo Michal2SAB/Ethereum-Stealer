@@ -30,3 +30,6 @@ I'm not actually responsible for what you do with this. Don't steal active walle
 
 # Also Note
 It's almost impossible to find anything. The chances of winning are extremely low. You could get lucky though, good luck!
+
+# Bitcoin Stealer
+My previous project for bitcoin is here: https://github.com/Michal2SAB/Bitcoin-Stealer
