@@ -1,6 +1,6 @@
 {
   "name": "ethereum-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate random ethereum wallets & private keys and then check if they match a wallet that contains some kind of balance, so that you can take it. In Node.js",
   "main": "generator.js",
   "dependencies": {
@@ -8,7 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install-deps": "npm install"
   },
   "author": "Michal2sab",
   "license": "ISC"
