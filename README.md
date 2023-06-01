@@ -3,8 +3,8 @@ Generate random ethereum wallets &amp; private keys and then check if they match
 
 # REQUIREMENTS
 1. Install Node.js
-2. npm i ethers
-3. Lots of time on your hands.. there's a lot and I mean A LOT of possible addresses and keys, you will be extremely lucky to find any that will match your riches.txt list.
+2. npm install
+3. 3. Lots of time on your hands.. there's a lot and I mean A LOT of possible addresses and keys, you will be extremely lucky to find any that will match your riches.txt list.
 
 # HOW TO RUN
 Just start run.bat (or run.sh if you're on linux).
